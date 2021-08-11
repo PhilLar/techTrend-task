@@ -47,7 +47,7 @@ const testArrays = [
 ];
 
 mod.getStringPromise(testArrays[0]).then(res => console.log(res));
-//=> "1-8!"
+//=> "1-8"
 
 mod.getStringsPromise(testArrays).then(res => console.log(res));
 //=> [

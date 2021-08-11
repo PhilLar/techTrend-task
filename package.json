@@ -1,0 +1,19 @@
+{
+  "name": "tech_trend-task",
+  "version": "1.0.0",
+  "description": "https://github.com/PhilLar/techTrend-task.git",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilLar/techTrend-task.git"
+  },
+  "author": "Philipp Larionov",
+  "license": "WTFPL",
+  "homepage": "https://github.com/PhilLar/techTrend-task#readme",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
